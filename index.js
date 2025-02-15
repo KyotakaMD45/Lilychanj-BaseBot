@@ -10,7 +10,7 @@ const {
   getContentType,
   makeInMemoryStore,
   useMultiFileAuthState
-} = require("@whiskeysockets/baileys");
+} = require("@adiwajshing/baileys");
 const pino = require("pino");
 const readline = require("readline");
 const pkg = require("./package.json");
